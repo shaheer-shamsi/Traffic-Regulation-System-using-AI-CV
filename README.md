@@ -49,8 +49,8 @@ X. Wang, L.-M. Meng, B. Zhang, J. Lu and K.-L.Du, "A Video-based Traffic Violati
 G. Ou, Y. Gao and Y. Liu, "Real TimeVehicularTrafficViolationDetectioninTrafficMonitorin gStream," in 2012 IEEE/WIC/ACM , Beijing, China , 2012 
 
 ## Tools
-openCV: https://docs.opencv.org/
-imutils: https://github.com/jrosebr1/imutils 
+openCV: https://docs.opencv.org/ <br>
+imutils: https://github.com/jrosebr1/imutils <br>
 
 ## Authors
 Shaheer Farrubar Shamsi<br>
